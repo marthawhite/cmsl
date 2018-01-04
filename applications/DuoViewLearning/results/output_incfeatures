@@ -1,0 +1,15 @@
+
+
+++++++++++++++++  Running with number of features = 20
+
+**********************************************
+On date = 23-Jan-2013, num_splits = 10, tl = 200 on datatset = /Users/martha/Code/projects/sparse_coding/releases/CSSL-2.0/data/DuoView/duoRPCA_n=20_c=20_t=5000_rk=10_rto=1.000000e-01_mag=100.mat
+
+Algorithm         SNR (on Second View)       Clean X Error              Clean Y Error              Objective                  L1 Loss                    L2 Loss                    Runtime Training       
+
+Multi-View        1.679e+05 +/- 9.111e+03    6.970e-02 +/- 1.043e-03    2.409e-02 +/- 8.610e-04    6.611e+00 +/- 5.040e-01    7.133e-03 +/- 3.293e-04    1.301e+00 +/- 1.675e-01    1.451e+02 +/- 3.164e+01
+Single-View       1.914e+04 +/- 1.128e+02    6.684e-02 +/- 1.032e-04    6.351e-02 +/- 3.066e-04    4.005e+00 +/- 1.693e-01    6.282e-03 +/- 1.984e-05    1.306e+00 +/- 1.675e-01    1.533e+00 +/- 3.902e-02
+
+
+++++++++++++++++  Running with number of features = 40
+

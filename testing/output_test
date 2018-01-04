@@ -1,0 +1,26 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2010 The MathWorks, Inc.
+                Version 7.12.0.635 (R2011a) 64-bit (maci64)
+                               March 18, 2011
+
+ 
+  To get started, type one of these: helpwin, helpdesk, or demo.
+  For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> Loading existing file /Users/martha/Code/projects/sparse_coding/releases/CSSL-2.0/data/DuoView/duoRPCA_n=20_c=20_t=5000_rk=5_rto=5_mag=10.mat
+>> >> >> >> >> >> >> >> >> >> ++++++++++++++++++++++++++++++++ Running test for OVER_DEFAULT_PARAMS...
+
+>> >> >> >> >> 
+
+++++++++++++++++++++++++++++++++ Successful test for OVER_DEFAULT_PARAMS...
+
+>> >> >> 
+
+++++++++++++++++++++++++++++++++ Running test for OVER_BEST_PARAMS...
+
+>> >> >> >> >> >> >> >> >> >> 
+
+++++++++++++++++++++++++++++++++ Successful test for OVER_BEST_PARAMS...
+
+>> >> >> 

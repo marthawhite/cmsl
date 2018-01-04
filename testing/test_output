@@ -1,0 +1,16 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2010 The MathWorks, Inc.
+                Version 7.12.0.635 (R2011a) 64-bit (maci64)
+                               March 18, 2011
+
+ 
+  To get started, type one of these: helpwin, helpdesk, or demo.
+  For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> {Warning: Using slower, uncompiled LBFGS implementation.} 
+> In initialize_paths at 50
+  In initialize_testing_paths at 4
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> f_diff = -0.001732, arg_diff = 0.075924
+>> As the optimal solution may be not unique, take arg_diff for reference only.
+>> >> >> 

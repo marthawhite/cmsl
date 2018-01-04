@@ -1,0 +1,9 @@
+Compile it on linux/Mac by either running "make" in matlab 
+(which runs make.m) or by running "make all" in bash 
+(which uses Makefile).  
+
+If you use Windows, The folder contains a pbm.mexw32 which 
+was compiled on Win7.
+First try if pbm.mexw32 already works by running test.m.  
+
+More details on the paramters are at parameters.txt.
